@@ -10,7 +10,7 @@ These projects were undertaken as part of my Master's program in Analytics at No
 *Date:* April 2022 - May 2022  
 
 **Usage**  
-Feel free to explore our project and use the code as a reference for your own data mining endeavors. Please provide appropriate credit if you find our work helpful.  
+Feel free to explore our project and use the code as a reference for your data analytics endeavors. Please provide appropriate credit if you find my work helpful.  
   
 **License**  
 This project is open-source and is available under the MIT License. See the license for details.
