@@ -2,8 +2,7 @@
   
 **Project Description**  
 
-The project consists of three parts, namely, Short-term Forecasting, Long-term Forecasting, and computing Time Series using R programming.
-
+Develop a comprehensive forecasting and time series analysis solution using R programming. The project is divided into three main parts: Short-term Forecasting, Long-term Forecasting, and Time Series Computation.
 
 **Dataset Description**
 
