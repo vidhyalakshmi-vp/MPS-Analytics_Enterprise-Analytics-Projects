@@ -8,8 +8,8 @@ The project consists of three parts, namely, Short-term Forecasting, Long-term F
 **Dataset Description**
 
 The Excel workbook 'Dataset.xlsx' contains the historical stock prices for the following stocks of 252 market days.  
-• Coca-Cola (NYSE:KO) 
-• Costco Wholesale (NASDAQ:COST) 
+* Coca-Cola (NYSE:KO) 
+* Costco Wholesale (NASDAQ:COST) 
 
   
 **Usage**
